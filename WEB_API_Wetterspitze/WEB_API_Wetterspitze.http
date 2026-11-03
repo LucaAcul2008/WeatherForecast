@@ -1,0 +1,6 @@
+@WEB_API_Wetterspitze_HostAddress = http://localhost:5005
+
+GET {{WEB_API_Wetterspitze_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
